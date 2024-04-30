@@ -1,0 +1,9 @@
+.Square {
+  flex: 33%;
+  height: 100%;
+  border: 1px solid black;
+  display: grid;
+  place-items: center;
+  cursor: pointer;
+  color: black;
+}
